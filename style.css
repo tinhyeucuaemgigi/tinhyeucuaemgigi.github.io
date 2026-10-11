@@ -2834,4 +2834,18 @@ div[class*="player"] * {
   color: #5a3548 !important;
   text-shadow: none !important;
 }
+/* ===== Dòng "Hà Nội, Việt Nam" nổi bật ===== */
+.location-row,
+.location-row span {
+  color: #6b2c47 !important;
+  font-weight: 600 !important;
+  opacity: 1 !important;
+  text-shadow: none !important;
+}
+
+.location-row i,
+.location-row .fa-location-dot {
+  color: #c2185b !important;
+  opacity: 1 !important;
+}
 
